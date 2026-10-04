@@ -1,0 +1,10 @@
+[server]
+maxUploadSize = 50
+enableXsrfProtection = true
+
+[theme]
+base = "dark"
+primaryColor = "#ff4b4b"
+
+[browser]
+gatherUsageStats = false
